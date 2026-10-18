@@ -11,7 +11,7 @@ This release contains the current reviewed manuscript (v55), its matching 117-pa
 - `SHA256SUMS.txt` — SHA-256 checksums for all released files.
 - `LICENSES.md` — license overview.
 
-The repository-availability paragraph inside the manuscript records the repository state as v53 when that text was prepared. This release supersedes that repository state with v55; the manuscript text itself was not otherwise altered for this upload.
+The repository-availability paragraph inside the manuscript records the repository state as v53 when that text was prepared. This release provides the current v55 manuscript; section 1.5 now summarizes the seven chapters in line with the document structure.
 
 ## Evidence and reproduction boundaries
 
